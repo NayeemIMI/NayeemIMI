@@ -1,12 +1,15 @@
 <h3 align="left">Find me on:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nayeemnishaat/">LinkedIn</a>
-  <a href="https://www.fiverr.com/nayeemnishaat">Fiverr</a>
-  <a href="https://twitter.com/nayeemNishaat">Twitter</a>
-  <a href="https://stackoverflow.com/users/17816883/labyrinth">Stack Overflow</a>
-  <a href="mailto:nayeemnishaat@gmail.com">Email</a>
-  <a href="natours-lby.herokuapp.com">Natours</a>
+  <a href="https://www.linkedin.com/in/nayeemnishaat/">LinkedIn</a> | 
+  <a href="https://www.fiverr.com/nayeemnishaat">Fiverr</a> | 
+  <a href="https://twitter.com/nayeemNishaat">Twitter</a> | 
+  <a href="https://stackoverflow.com/users/17816883/labyrinth">Stack Overflow</a> | 
+  <a href="mailto:nayeemnishaat@gmail.com">Email</a> | 
 </p>
+
+<h3> My Websites:</h3>
+  <a href="laby.ninja">ChatX</a>
+  <a href="natours-lby.herokuapp.com">Natours</a>
 
 <br>
 <br>
