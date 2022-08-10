@@ -17,9 +17,10 @@
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats-mu-taupe.vercel.app/api?username=nayeemnishaat&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"/>  
+<img align="center" src="https://github-readme-stats-mu-taupe.vercel.app/api?username=nayeemnishaat&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"/>  
 <img align="center" src="https://github-readme-stats-mu-taupe.vercel.app/api/top-langs/?username=nayeemnishaat&layout=compact&bg_color=0d1117&text_color=929292&hide_border=true"/>
 
+ <br/>
 <br/>
 <a href="https://github.com/nayeemnishaat"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayeemnishaat&theme=react-dark&hide_border=true&hide_title=true" /></a>
 <br/>
