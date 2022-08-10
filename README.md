@@ -4,22 +4,11 @@
 
 <h3 align="right">You can find me on-</h3>
 <p align="right">
-   <a href="https://www.linkedin.com/in/arifjawad/"><img  src="/icons/linkedin1.png"/></a>
-  <a href="https://dribbble.com/arifjawad_"><img  src="/icons/1298734_dribbble_icon.png"/></a>
-  <a href="hhttps://www.instagram.com/arifjawad_"><img  src="/icons/1298747_instagram_brand_logo_social media_icon.png"/></a>
-  <a href="https://www.behance.net/arifjawad2"><img  src="/icons/1298727_behance_brand_communication_logo_icon.png"/></a>
-  <a href="https://www.fiverr.com/arifjawad241"><img  src="/icons/3069760_circle_fiverr_round icon_icon.png"/></a>
-  <a href="https://medium.com/@arifjawad.ajp"><img  src="/icons/5279113_blog_medium_medium logo_icon.png"/></a>
-  <a href="https://codepen.io/arifjawad_"><img  src="/icons/1298732_codepen_icon.png"/></a>
-  <a href="https://www.youtube.com/channel/UCZPxGoPfbwaCX22cy4Y4W3w"><img  src="/icons/1298778_youtube_play_video_icon.png"/></a>
-  <a href="https://www.facebook.com/arif.jawad.96/"><img  src="/icons/1298738_facebook_brand_fb_logo_social media_icon.png"/></a>
-  <a href="https://twitter.com/arifjawad_"><img  src="/icons/1298770_twitter_bird_social media_tweet_icon.png"/></a>
+  <a href="https://www.linkedin.com/in/nayeemnishaat/"><img  src="/icons/linkedin1.png"/></a>
+  <a href="https://www.fiverr.com/nayeemnishaat"><img  src="/icons/3069760_circle_fiverr_round icon_icon.png"/></a>
+  <a href="https://twitter.com/nayeemNishaat"><img  src="/icons/1298770_twitter_bird_social media_tweet_icon.png"/></a>
+   <a href="https://stackoverflow.com/users/17816883/labyrinth">Stack Overflow</a>
 </p>
-
-
-**Hold your breathe and take a look to my <a href="https://www.fiverr.com/arifjawad241" text-decoration="none">Fiverr</a>**
-
-**visit my website :  <a href="https://arif-jawad.com" text-decoration="none">arif-jawad.com</a>**
 
 <br>
 <br>
