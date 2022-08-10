@@ -24,3 +24,7 @@
 <br/>
 <a href="https://github.com/nayeemnishaat"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayeemnishaat&theme=react-dark&hide_border=true&hide_title=true" /></a>
 <br/>
+  
+<img align="center" src="https://contrib.rocks/image?repo=nayeemnishaat/discord"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=nayeemnishaat"/>
+<!--   ![Profile View Counter](https://komarev.com/ghpvc/?username=nayeemnishaat) -->
