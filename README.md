@@ -13,12 +13,16 @@
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nayeemnishaat&theme=jolly&hide_border=true&ring=DD3018&dates=DDD7D4&fire=DDD035&currStreakNum=C6DD44&sideLabels=12CCB7&sideNums=CADD94&currStreakLabel=BFDD27&background=0D1117&stroke=DE4514" alt="nayeemnishaat" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nayeemnishaat&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="nayeemnishaat" /></p>
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-mu-taupe.vercel.app/api?username=nayeemnishaat&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"/>  
-<img align="center" src="https://github-readme-stats-mu-taupe.vercel.app/api/top-langs/?username=nayeemnishaat&layout=compact&bg_color=0d1117&text_color=929292&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayeemnishaat&show_icons=true&theme=radical&count_private=true"/>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemnishaat&langs_count=10"/>
+</p>
 
  <br/>
 <br/>
