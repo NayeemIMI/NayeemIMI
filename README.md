@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemnishaat&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemnishaat&langs_count=10"/>
 </p>
 
  <br/>
@@ -29,4 +29,4 @@
 <a href="https://github.com/nayeemnishaat"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayeemnishaat&theme=react-dark&hide_border=true&hide_title=true" /></a>
 <br/>
   
-<img align="center" src="https://komarev.com/ghpvc/?username=nayeemnishaat"/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nayeemnishaat"/></p>
