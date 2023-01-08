@@ -26,7 +26,7 @@
 
  <br/>
 <br/>
-<a href="https://github.com/nayeemnishaat"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayeemnishaat&theme=react-dark&hide_border=true&hide_title=true" /></a>
+<a href="https://github.com/nayeemnishaat"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nayeemnishaat&theme=react-dark&hide_border=true&hide_title=true" /></a>
 <br/>
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nayeemnishaat"/></p>
