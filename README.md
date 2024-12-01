@@ -5,7 +5,8 @@
   <a href="https://twitter.com/nayeemNishaat">Twitter</a> | 
   <a href="https://stackoverflow.com/users/17816883/labyrinth">Stack Overflow</a> | 
   <a href="mailto:nayeemnishaat@gmail.com">Email</a>
-  <a href="tel:01849432850">WhatsApp</a>
+  <a href="tel:+8801849432850">WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?phone=+8801849432850" target="_blank">WhatsApp</a>
 </p>
 
 <!-- <h3> My Websites:</h3>
